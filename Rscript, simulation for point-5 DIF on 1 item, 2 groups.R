@@ -1,4 +1,4 @@
-#### sample size determination to identify .5 DIF on one item, 1000 simulations ####
+#### sample size determination to identify .5 DIF on one item, 1000 simulations. Includes function for inserting "NA" for item responses that are missing ####
 
 # 540 items exposures for 720 examinees in Group A, and 200 examinees in Group B taking all items, for 80 items
 
